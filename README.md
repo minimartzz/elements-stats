@@ -40,7 +40,7 @@ Notes taken from studying the textbook. Code snippets for exercises done in Pyth
 
 Author: Martin Ho
 
-Project Link: [https://github.com/minimartzz/ml-design-patterns](https://github.com/minimartzz/ml-design-patterns)
+Project Link: [Github](https://github.com/minimartzz/elements-stats)
 
 <!-- Acknowledgments -->
 
